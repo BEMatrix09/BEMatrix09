@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bematrix09&label=Profile%20views&color=0e75b6&style=flat" alt="bematrix09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm Well Programmer.
+I have proper Intention to make a code. 
 
 - 💬 Ask me about **C , C++ Coding Language**
 
