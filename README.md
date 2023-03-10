@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/i_honest_09" target="blank"><img src="https://img.shields.io/twitter/follow/i_honest_09?logo=twitter&style=for-the-badge" alt="i_honest_09" /></a> </p>
 
 <h3> <strong> I'm Well Programmer</strong></h3>
-<h3> <strong>I Have Proper Intention Make a Code..✒️</strong></h3>
+<h3> <strong>I Have Proper Intention to Make a Code..✒️</strong></h3>
 <h3> <strong>Make it work, make it right, make it fast😎</strong></h3>
 
 - 💬 Ask me about **C , C++ Coding Language**
