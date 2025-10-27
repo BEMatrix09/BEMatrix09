@@ -4,10 +4,10 @@
 
 ###  ✨ Full Stack Developer | AI & Data Science
 
-[![Portfolio](https://img.shields.io/badge/🎨_PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://bematrix09.github.io)
-[![Email](https://img.shields.io/badge/📧_EMAIL-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
-[![Phone](https://img.shields.io/badge/📞_PHONE-45B7D1?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9579995747)
+[![Portfolio](https://img.shields.io/badge/🎨_PORTFOLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://bematrix09.github.io)
+[![Email](https://img.shields.io/badge/📧_EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
+[![Phone](https://img.shields.io/badge/📞_PHONE-0f172a?style=for-the-badge&logo=phone&logoColor=white)](tel:9579995747)
 
 ---
 
