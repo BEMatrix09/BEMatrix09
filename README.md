@@ -2,12 +2,12 @@
 
 # <span style="color: #ff6b6b">P</span><span style="color: #4ecdc4">r</span><span style="color: #45b7d1">a</span><span style="color: #a166ff">n</span><span style="color: #ffa500">a</span><span style="color: #ff6b9d">v</span> <span style="color: #ff6b6b">K</span><span style="color: #4ecdc4">a</span><span style="color: #45b7d1">i</span><span style="color: #a166ff">l</span><span style="color: #ffa500">a</span><span style="color: #ff6b9d">s</span> <span style="color: #ff6b6b">S</span><span style="color: #4ecdc4">a</span><span style="color: #45b7d1">l</span><span style="color: #a166ff">u</span><span style="color: #ffa500">n</span><span style="color: #ff6b9d">k</span><span style="color: #ff6b6b">e</span>
 
-### 🔥 Full Stack Developer | AI & Data Science
+###  ✨ Full Stack Developer | AI & Data Science
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bematrix09.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
-[![Phone](https://img.shields.io/badge/📞_Phone-45B7D1?style=for-the-badge&logo=phone&logoColor=white)](tel:9579995747)
+[![Portfolio](https://img.shields.io/badge/🎨_PORTFOLIO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://bematrix09.github.io)
+[![Email](https://img.shields.io/badge/📧_EMAIL-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
+[![Phone](https://img.shields.io/badge/📞_PHONE-45B7D1?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9579995747)
 
 ---
 
