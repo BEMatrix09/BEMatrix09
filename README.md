@@ -4,10 +4,10 @@
 
 ### 🔥 Full Stack Developer | AI & Data Science
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bematrix09.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-misalunke09@gmail.com-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-pranav--salunke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
-[![Phone](https://img.shields.io/badge/📞_Call-9579995747-45B7D1?style=for-the-badge&logo=phone&logoColor=white)](tel:9579995747)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bematrix09.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misalunke09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-salunke)
+[![Phone](https://img.shields.io/badge/📞_Phone-45B7D1?style=for-the-badge&logo=phone&logoColor=white)](tel:9579995747)
 
 ---
 
@@ -19,24 +19,28 @@ Full Stack Developer creating cutting-edge websites and applications. Skilled pr
 ## 🛠️ Technical Skills
 
 ### 🎨 Frontend Development
-`<i class="fab fa-html5"></i>` `<i class="fab fa-css3-alt"></i>` `<i class="fab fa-js"></i>` `<i class="fab fa-react"></i>` `<i class="fab fa-bootstrap"></i>`
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-**HTML5** **CSS3** **JavaScript** **React** **Bootstrap**
-
-### ⚙️ Backend Development  
-`<i class="fab fa-node-js"></i>` `<i class="fas fa-bolt"></i>` `<i class="fas fa-rocket"></i>` `<i class="fab fa-python"></i>`
-
-**Node.js** **Express.js** **FastAPI** **Django** **Python**
+### ⚙️ Backend Development
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### 🗄️ Database
-`<i class="fas fa-database"></i>` `<i class="fas fa-database"></i>` `<i class="fas fa-code"></i>`
-
-**MongoDB** **MySQL** **SQL**
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### 🔧 Tools & Technologies
-`<i class="fab fa-git-alt"></i>` `<i class="fab fa-aws"></i>` `<i class="fas fa-search"></i>`
-
-**Git** **AWS** **SEO**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-FF6B9D?style=for-the-badge&logo=google&logoColor=white" />
 
 ---
 
@@ -72,17 +76,24 @@ Full Stack Developer creating cutting-edge websites and applications. Skilled pr
 ### 🛒 E-commerce Herbal Products
 A complete e-commerce platform for herbal products with user authentication, product catalog, shopping cart, and payment integration.
 
-`<i class="fab fa-react"></i>` **React** `<i class="fab fa-python"></i>` **Django** `<i class="fas fa-database"></i>` **MySQL**
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 
 ### 🏥 Doctor Appointment System  
 An online platform for booking doctor appointments with real-time availability and patient management system.
 
-`<i class="fab fa-html5"></i>` **HTML/CSS/JS** `<i class="fas fa-rocket"></i>` **FastAPI**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 
 ### 🤖 AI Model Automation
 Automated AI model deployment system using Gemini API for intelligent data processing and analysis.
 
-`<i class="fab fa-python"></i>` **Python** `<i class="fas fa-robot"></i>` **Gemini API** `<i class="fas fa-rocket"></i>` **FastAPI**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 
 ---
 
