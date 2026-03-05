@@ -1,70 +1,127 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranav%20Kailas%20Salunke&fontSize=50&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descSize=18&descAlignY=58&animation=twinkling" />
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&width=650&lines=Currently+%40+Suronex.ai+—+Building+AI+Web+Apps;Full+Stack+%2B+LLM+Integration+Engineer;React+%7C+Django+%7C+FastAPI+%7C+Python+%7C+AWS;Turning+Ideas+into+Scalable+AI+Products" />
-</a>
-<br/><br/>
-<a href="https://bematrix09.github.io"><img src="https://img.shields.io/badge/Portfolio-00C3FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> 
-<a href="mailto:misalunke09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://linkedin.com/in/pranav-salunke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<img src="https://komarev.com/ghpvc/?username=BEMatrix09&label=Profile+Views&color=00C3FF&style=for-the-badge" />
+
+# <span style="color: #ff6b6b">P</span><span style="color: #4ecdc4">r</span><span style="color: #45b7d1">a</span><span style="color: #a166ff">n</span><span style="color: #ffa500">a</span><span style="color: #ff6b9d">v</span> <span style="color: #ff6b6b">K</span><span style="color: #4ecdc4">a</span><span style="color: #45b7d1">i</span><span style="color: #a166ff">l</span><span style="color: #ffa500">a</span><span style="color: #ff6b9d">s</span> <span style="color: #ff6b6b">S</span><span style="color: #4ecdc4">a</span><span style="color: #45b7d1">l</span><span style="color: #a166ff">u</span><span style="color: #ffa500">n</span><span style="color: #ff6b9d">k</span><span style="color: #ff6b6b">e</span>
+
+###  ✨ Full Stack Developer | AI & Data Science
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://bematrix09.github.io)
+[![Email](https://img.shields.io/badge/EMAIL-00000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](mailto:misalunke09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://linkedin.com/in/pranav-salunke)
+[![Phone](https://img.shields.io/badge/PHONE-00000000?style=for-the-badge&logo=phone&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](tel:9579995747)
+
+---
+
+## 👤 About Me
+Visionary developer orchestrating digital transformation through full-stack mastery and intelligent systems. Digital architect sculpting cutting-edge web experiences with AI integration. Leveraging MNC expertise from Datamatics to engineer robust, scalable platforms that merge technical excellence with groundbreaking user experiences while redefining operational efficiency.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+
+### ⚙️ Backend Development
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### 🔧 Tools & Technologies
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-FF6B9D?style=for-the-badge&logo=google&logoColor=white" />
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 Full Stack Developer Intern
+**Datamatics Global Services Limited**
+- Designed and implemented software solutions
+- Integrated third-party APIs  
+- Documented technical processes
+
+</td>
+<td width="50%">
+
+#### 🎨 Frontend Developer
+**Nxtwave CCBP 4.0**
+- Built responsive web applications
+- Created reusable React components
+- Mobile-first development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Projects
+
+### 🛒 E-commerce Herbal Products
+A complete e-commerce platform for herbal products with user authentication, product catalog, shopping cart, and payment integration.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+### 🏥 Doctor Appointment System  
+An online platform for booking doctor appointments with real-time availability and patient management system.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+
+### 🤖 AI Model Automation
+Automated AI model deployment system using Gemini API for intelligent data processing and analysis.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+
+---
+
+## 🎓 Education
+
+### 🏫 B.E. AI & Data Science
+**Sandip Institute of Technology** | 2021-2025
+
+### 💻 Full Stack Development  
+**Nxtwave CCBP-4.0** | 2024
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BEMatrix09&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BEMatrix09&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
-About
-typescriptconst pranav = {
-  name      : "Pranav Kailas Salunke",
-  role      : "Full Stack Developer & AI Engineer",
-  current   : "Suronex.ai — Building AI-powered web apps  🟢",
-  previous  : "Datamatics Global Services Ltd.",
-  education : "B.E. AI & Data Science, Sandip Institute (2021–2025)",
-  location  : "Maharashtra, India",
-  stack     : ["React", "Next.js", "Python", "FastAPI", "Django", "Node.js"],
-  ai        : ["Gemini API", "OpenAI", "LLM Integration", "AI Automation"],
-  motto     : "Code. Create. Innovate. Repeat.",
-};
-
-Experience
-Suronex.ai  ·  Full Stack Developer — AI Web Applications  ·  Show Image
-
-Building end-to-end AI-powered web platforms — LLM API integration, full-stack architecture with React + FastAPI, real-time AI pipelines, intelligent dashboards, and high-performance backend systems.
-
-<br/>
-Datamatics Global Services Limited  ·  Full Stack Developer Intern  ·  Show Image
-
-Designed & shipped software solutions for enterprise clients, integrated third-party APIs, and collaborated in agile teams at one of India's leading IT MNCs.
-
-
-Education
-InstitutionProgramYearSandip Institute of TechnologyB.E. — Artificial Intelligence & Data Science2021 – 2025Nxtwave CCBP 4.0Full Stack Development Certification2024 – 2026
-
-Tech Stack
-<div align="center">
-Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark&perline=8" />
-Backend & AI  
-<img src="https://skillicons.dev/icons?i=python,nodejs,django,fastapi&theme=dark&perline=8" />
-Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=8" />
-Tools & Cloud  
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,postman,linux&theme=dark&perline=8" />
-</div>
-
-Projects
-ProjectDescriptionStackHerbal E-CommerceFull e-commerce platform — auth, catalog, cart, paymentsReact · Django · MySQLDoctor Appointment SystemReal-time booking with live availability & patient managementJS · FastAPI · PostgreSQLAI Model AutomationGemini API pipeline for intelligent data processing & reportsPython · Gemini · FastAPI
-
-GitHub Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEMatrix09&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C3FF&ring=0066FF&fire=0066FF&currStreakLabel=00C3FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=BEMatrix09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&icon_color=0066FF&text_color=ffffff&count_private=true" width="49%" />
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BEMatrix09&theme=tokyo-night&bg_color=0D1117&color=00C3FF&line=0066FF&point=FFFFFF&area=true&hide_border=true" width="96%" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=BEMatrix09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="96%" />
-</div>
+---
 
 <div align="center">
-<a href="https://linkedin.com/in/pranav-salunke"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:misalunke09@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="https://bematrix09.github.io"><img src="https://img.shields.io/badge/Portfolio-00C3FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+### 🌟 *"Let's build something amazing!"* 🚀
+
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</div>
