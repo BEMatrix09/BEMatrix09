@@ -4,10 +4,10 @@
 
 ###  ✨ Full Stack Developer | AI & Data Science
 
-[![Portfolio](https://img.shields.io/badge/🎨_PORTFOLIO-00000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://bematrix09.github.io)
-[![Email](https://img.shields.io/badge/📧_EMAIL-00000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](mailto:misalunke09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-00000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://linkedin.com/in/pranav-salunke)
-[![Phone](https://img.shields.io/badge/📞_PHONE-00000000?style=for-the-badge&logo=phone&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](tel:9579995747)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://bematrix09.github.io)
+[![Email](https://img.shields.io/badge/EMAIL-00000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](mailto:misalunke09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](https://linkedin.com/in/pranav-salunke)
+[![Phone](https://img.shields.io/badge/PHONE-00000000?style=for-the-badge&logo=phone&logoColor=white&labelColor=00000000&color=white&border=1px_solid_%23FFD700&borderRadius=5)](tel:9579995747)
 
 ---
 
